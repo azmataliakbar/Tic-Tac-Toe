@@ -86,7 +86,7 @@ const TicTacToe = () => {
             Reset Game
           </button>
         </div>
-        <h4 className="text-center font-extrabold mt-2">Author:Azmat Ali</h4>
+        <h4 className="text-center text-white font-extrabold mt-2">Author:Azmat Ali</h4>
       </div>
     </div>
   );
